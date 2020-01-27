@@ -1,0 +1,15 @@
+##################################################
+
+# Author: Jonathan Lee
+
+# Date: Jan-27-2020
+
+# Course: LBYCPA1
+
+
+
+# Program Description
+
+""" Program for me is a software tool that executes the instruction being 
+tasked for them. Through the use of computer languages, the program is 
+able to understand the commands of the user. """
